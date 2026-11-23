@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/escena4_luminance.png",
+  "resources": {
+    "originalImage": "escena4_original.png",
+    "croppedImage": "escena4_cropped.png",
+    "thumbnailImage": "escena4_thumbnail.png",
+    "luminanceImage": "escena4_luminance.png"
+  },
+  "name": "escena4",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 274,
+    "left": 0,
+    "width": 1226,
+    "height": 1635,
+    "isRotated": false,
+    "originalWidth": 1226,
+    "originalHeight": 2182
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795402400050,
+  "updated": 1795402400050
+}
